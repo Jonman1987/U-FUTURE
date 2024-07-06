@@ -1,1 +1,1 @@
-Assesment project for U-FUTURE
+Test task for U-FUTURE
